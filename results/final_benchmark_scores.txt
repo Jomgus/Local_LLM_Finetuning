@@ -1,0 +1,4 @@
+--- Final Summarization Benchmark Results ---
+ROUGE-1 Score: 0.1827
+ROUGE-L Score: 0.1358
+---------------------------------------------
