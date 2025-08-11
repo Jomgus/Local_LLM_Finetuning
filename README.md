@@ -1,4 +1,4 @@
-Local Fine-Tuning of Phi-3 for Summarization
+# Local Fine-Tuning of Phi-3 for Summarization
 
 This project is an end to end prototype for fine-tuning the `microsoft/Phi-3-mini-4k-instruct` language model for a news article summarization task. The entire workflow, from model preparation to final evaluation, was performed locally on a 16GB M4 Macbook air using the MLX framework.
 
